@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/168692ce-abd9-4542-a346-e86125179bdb/appservices/subscriptions/168692ce-abd9-4542-a346-e86125179bdb/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/gotomall",
+    "appService.deploySubpath": "."
+}
